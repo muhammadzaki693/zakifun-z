@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: zakifun-z-zakirhamadan53
+Version: 0.0.1
+Summary: A small package
+Home-page: https://github.com/muhammadzaki693/zakifun-z
+Author: zakirhamadan53
+Author-email: rzaki9353@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/muhammadzaki693/zakifun-z/issues
+Description: # zakifun-z
+        gatatu
+        # instalaion
+        ```
+        pip install zakifun
+        ```
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.x
+Description-Content-Type: text/markdown
